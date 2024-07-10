@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+.button-container {
+    margin-top: 20px;
+    text-align: center;
+}
+button {
+    padding: 5px 10px;
+    margin: 10px;
+    border:  none;
+    color: #fff;
+    border-radius: 5px;
+}
+.primary-btn {
+background-color: #3498db;
+}
+.secondary-btn {
+background-color: #2ecc71;
+}
+.success-btn {
+background-color: #27ae60;
+}
+.danger-btn {
+background-color: #e74c3c;
+}
