@@ -1,0 +1,28 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+nav {
+    background-color: #051B54;
+}
+.navbar-brand {
+    font-family: 'Gill Sans', sans-serif;
+    color: white;
+}
+.navbar-nav .nav-link {
+    color: white;
+}
+.d-flex {
+    background-color: #FFFFFF33;
+    border-color: #FFFFFF33;
+    color: white;
+    border-radius: 15px
+}
+.card.mb-3 {
+    background-color: #62DAD3
+}
+.nav-link {
+    color: #051B54
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
